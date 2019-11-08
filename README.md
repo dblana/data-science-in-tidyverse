@@ -6,12 +6,12 @@ This is a one-day hands on workshop based on the book [R for Data Science](http:
 
 ## Software Requirements
 
-You'll be using RStudio Cloud, so (all going well) on the day of the workshop all you'll need is **a laptop that can access the internet** (wifi will be available).  
+You'll be using RStudio Cloud, so (all going well) on the day of the workshop all you'll need is **a laptop that can access the internet**.  
 
-In the unlikely event that there are problems with the conference internet connection, you may want to have a local installation on your computer as a backup. If you'd like, install the following:
+In the unlikely event that there are problems with the internet connection, you may want to have a local installation on your computer as a backup. If you'd like, install the following (but we can also do this on the day):
  
-1. A recent version of R (~3.5.2), which is available for free at [cran.r-project.org](http://www.cran.r-project.org)
-2. A recent version of RStudio IDE (~1.1.463), available for free at [www.rstudio.com/download](http://www.rstudio.com/download)
+1. A recent version of R (~3.6.1), which is available for free at [cran.r-project.org](http://www.cran.r-project.org)
+2. A recent version of RStudio IDE (~1.2.5019), available for free at [www.rstudio.com/download](http://www.rstudio.com/download)
 3. The set of relevant R packages, which you can install by connecting to the internet, opening RStudio, and running:  
  
     install.packages(c("babynames", "fivethirtyeight", "formatR", "gapminder", "hexbin", "mgcv", "maps", "mapproj", "nycflights13", "rmarkdown", "skimr", "tidyverse", "viridis")) 
